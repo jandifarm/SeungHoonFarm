@@ -15,8 +15,11 @@
 
 휴일: 일요일
 
-* ~클라우드 개념 정리~ ㅅ
-  * 간략하게 클라우드에 대한 내용 정리하였습니다.
-* ~클라우드 네이티브란? 정리~
-* ~devOps란? 정리~
+* ~클라우드 개념 정리~ https://github.com/shoon2430/TIL/blob/master/cloud/cloud.md
+* ~클라우드 네이티브란? 정리~ https://github.com/shoon2430/TIL/blob/master/cloud/cloud_native.md
+* ~devOps란? 정리~ https://github.com/shoon2430/TIL/blob/master/cloud/devops.md
+
+한줄평: 간략하게 정리하다보니 지속적으로 내용보완이 필요할 것 같다고 생각한다.
+
+---
 
