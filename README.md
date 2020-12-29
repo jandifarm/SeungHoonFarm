@@ -1,4 +1,4 @@
-# SeungHoonFarm
+# 🌱SeungHoonFarm
 > 주 단위로 큰 목표를 정리합니다.
 
 ## 🕔 12월 5주차 계획(12/28 ~ 1/4)
