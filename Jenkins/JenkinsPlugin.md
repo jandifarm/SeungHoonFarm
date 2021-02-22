@@ -1,14 +1,21 @@
 
-# Jenkins plugin을 개발하면서 몰랐던 내용들을 정리하려고 한다.
+# Jenkins plugin
+
+목차
+
+* [1.내용정리](#내용정리)
+
+* [2.참고자료](#참고자료)  
 
 
-[1.기록](#기록)
-
-[2.참고자료](#참고자료)
 
 
 
-# 기록
+
+# 내용정리
+
+## Jenkins Plugin
+[정리 링크]()
 
 ## Jackson 2 API
 
@@ -31,7 +38,11 @@
 
 # 참고자료
 
-* Jira-plugin 참고자료
+* jelly form 참고
+    * https://wiki.jenkins.io/display/JENKINS/Jelly+form+controls
+* Post Build Script 참고
+    * https://github.com/jenkinsci/postbuildscript-plugin
+* Jira-plugin 참고
     * java
         *   https://github.com/jenkinsci/jira-plugin/blob/master/src/main/java/hudson/plugins/jira/CredentialsHelper.java
     * resource
