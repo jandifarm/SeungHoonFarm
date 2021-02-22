@@ -6,7 +6,7 @@
 
 이렇게 진행하게 될 경우 현재 Kubernetes로 배포된 application들의 형상관리가 어려운점이있다.
 
-이를 해결하기위해 kubeapps를 도입해보려고 하고, 아를 위해 프로토타입 형태로 기존의 CD부분을 kubeapps의 API를 사용해서 배포를 해보려고 한다.
+이를 해결하기위해 kubeapps를 도입해보려고 하고, 기존의 CD부분을 kubeapps의 API를 사용해서 배포를 해보려고 한다.
 
 따라서 CD를 하는 시점에 kubeapps API를 사용해서 kubeapps로 배포하도록 하는 Jenkins Plugin을 개발하게 되었다.
 
